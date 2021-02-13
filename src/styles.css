@@ -1,0 +1,30 @@
+.btn,
+.jumbotron,
+.nav :hover {
+	outline: none;
+}
+
+body {
+	background: #121212;
+}
+
+.btn-fancy {
+	background: #e07c24;
+}
+.bg-fancy {
+	background: #5a5856;
+}
+.bg-black{
+	background-color: #121212;
+}
+
+.bg-orange{
+	background-color:  rgb(255, 175, 26);
+}
+.btn-orange{
+	background-color: rgb(255, 175, 26);
+}
+
+.bg-darker{
+	background-color:#353535
+}
